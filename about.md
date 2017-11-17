@@ -3,16 +3,4 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Mitt namn är Marcus. Jag växte upp i en stad på västkusten som heter Lysekil. Under min uppväxt spelade jag mycket ishockey och fotboll. Sjön har alltid varit ett intresse för mig oavsett om det gäller fiske, bara åka en tur eller jobba. Så när det var dags för gymnasie valde jag att söka mig till Öckerö som ligger i Göteborgs skärgård för att gå sjöfartsgymnasie. Med detta val flyttade jag hemifrån bara 16 år gammal. Jag har seglat skuta vilket i folkmun skulle kallas piratskepp i medelhavet och även över atlanten. Men jag har även praktiserat på bunkerbåt vilket är en bensinstation för större fartyg. När jag skulle börja mitt sista år på Öckerö fick jag chansen att göra praktik på en av statens isbrytare i Luleå. Efter gymnasiet valde jag att söka mig till Kalmar och läsa till sjökapten men eftersom mitt färgseende har blivit dåligt på rött och grönt var jag tvungen att avsluta dom studierna. Nu läser jag utveckling och drift av mujvarusystem i Kalmar. Efter mina studier skulle jag vilja jobba med att utveckla mjukvarusystemen på fartyg.
