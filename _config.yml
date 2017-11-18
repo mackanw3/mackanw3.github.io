@@ -17,8 +17,8 @@ title: Marcus Wallin
 email: Mw222xs@studen.lnu.se
 description: >- # this means to ignore newlines until "baseurl:"
 Ett spelforum där du kan möta andra nördar med samma intresse oavsett om det är cosplay, dator spel eller brädspel.:
-baseurl: "https://mackanw3.github.io/_posts/" # the subpath of your site, e.g. /blog
-url: "https://mackanw3.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mackanw
 github_username:  mackanw3
 
