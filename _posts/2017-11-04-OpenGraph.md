@@ -6,7 +6,7 @@ comments: true
 categories: jekyll update
 ---
 
-Open Graph är ett massa metataggar som du väljer att importera i ett html dokument. Detta gör att när man länkar sin sida kommer ett fält med utvald information fram så som bild, en textsträng och så vidare. Detta var från början skapat av Facebook.
+Open Graph är ett massa metataggar som du väljer att importera i ett html dokument. Detta gör att när man länkar sin sida kommer ett fält med utvald information fram såsom bild, en textsträng och så vidare. Detta var från början skapat av Facebook.
 
 Jag valde att använda Open Graph genom att min bakgrundsbild från min webb-sida syns, mitt för- och efternamn och även en beskrivning av vad sidan är skapad för.
 
